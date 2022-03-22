@@ -1,24 +1,46 @@
-# tip-calculator
+# Frontend Mentor - Tip calculator app solution
 
-## Project setup
-```
-npm install
-```
+This is a solution to the [Tip calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Table of contents
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Calculate the correct tip and total cost of the bill per person
+
+### Screenshot
+
+![](./src/assets/preview.jpg)
+
+### Links
+
+- Solution [URL](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX)
+- Live Site [URL](https://arturharutyunyan1.github.io/tip-calculator/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Vue
+
+## Author
+
+- Website - [Artur Harutyunyan](https://github.com/ArturHarutyunyan1)
+- Frontend Mentor - [@ArturHarutyunyan1](https://www.frontendmentor.io/profile/ArturHarutyunyan1)
