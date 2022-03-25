@@ -57,7 +57,7 @@
               </div>
           </div>
       </div>
-      <h3 class="author">Challange by <a href="https://frontendmentor.io" target="_blank">Frontend Mentor</a> Coded by <a href="https://github.com/ArturHarutyunyan1" target="_blank">Artur Harutyunyan</a></h3>
+      <h3 class="author">Challenge by <a href="https://frontendmentor.io" target="_blank">Frontend Mentor</a> Coded by <a href="https://github.com/ArturHarutyunyan1" target="_blank">Artur Harutyunyan</a></h3>
   </div>
 </template>
 
